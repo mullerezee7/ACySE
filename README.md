@@ -1,2 +1,3 @@
 # ACySE
-Repositorio de código ACySE
+Repositorio del proyecto final de la materia
+
